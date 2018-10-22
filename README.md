@@ -1,2 +1,2 @@
-tasbirahaathaya.github.io/index.html
+https://tasbirahaathaya.github.io/index.html/
 
