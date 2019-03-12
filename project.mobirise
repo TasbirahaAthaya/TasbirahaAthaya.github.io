@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Tasbiraha Athaya-clone",
-    "currentPage": "project.html",
+    "currentPage": "publication.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3846,7 +3846,7 @@
         }
       ]
     },
-    "page3.html": {
+    "publication.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "Publication",
